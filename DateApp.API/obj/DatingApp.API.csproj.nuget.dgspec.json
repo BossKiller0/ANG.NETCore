@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj": {}
+    "e:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "E:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj": {
+    "e:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "e:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "E:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj",
+        "projectPath": "e:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\God\\.nuget\\packages\\",
-        "outputPath": "E:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\obj\\",
+        "outputPath": "e:\\.Net Core API With Angular Projrct\\DateApp\\DateApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
